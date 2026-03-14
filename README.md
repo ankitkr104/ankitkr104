@@ -20,6 +20,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr104&layout=compact&theme=dark)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkr104&theme=tokyo-night)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankitkr104&theme=tokyonight&no-frame=true&margin-w=10)
+
 ###  Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/ankit-kumar-iitp)

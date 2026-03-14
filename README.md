@@ -22,7 +22,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkr104&theme=tokyo-night)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankitkr104&theme=tokyonight&no-frame=true&margin-w=10)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkr104&theme=tokyonight)
 
 ###  Socials
 

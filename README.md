@@ -17,6 +17,8 @@
 
 ###  GitHub Stats
 
+![Duolingo Stats](https://duolingo-stats-card.vercel.appAnkitwats939&theme=calm)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ankitkr104&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr104&layout=compact&theme=dark)

@@ -17,13 +17,7 @@
 
 ###  GitHub Stats
 
-[![Ankitwats939's Duolingo Stats](https://duolingo-stats-card.vercel.app)](https://www.duolingo.com)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ankitkr104&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr104&layout=compact&theme=dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkr104&theme=tokyo-night)
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkr104&theme=tokyonight)
 

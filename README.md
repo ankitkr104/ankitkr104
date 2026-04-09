@@ -23,8 +23,6 @@
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkr104&theme=tokyonight)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ankitkr104&color=blue)
-
 ##  LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit_Kumar104?theme=dark&font=Karma)
@@ -35,3 +33,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/ankit-kumar-iitp)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:itx.ankit.kr@gmail.com)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ankitkr104&color=blue)

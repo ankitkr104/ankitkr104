@@ -23,7 +23,7 @@
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkr104&theme=tokyonight)
 
-![](https://komarev.com)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ankitkr104&color=blue)
 
 ##  LeetCode Stats
 

@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ankit+Kumar;CS+Student+at+IIT+Patna;Machine+Learning+Enthusiast;Open+Source+Learner" />
 </p>
 
- CS Undergraduate at IIT Patna  
- Web Development | Machine Learning  
- Open Source Contributor  
-
 ---
 
 ##  Tech Stack

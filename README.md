@@ -33,6 +33,6 @@
 
 ###  Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/ankit-kumar-iitp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/ankit-kumar-iitp/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:itx.ankit.kr@gmail.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ankitkr104&color=blue)

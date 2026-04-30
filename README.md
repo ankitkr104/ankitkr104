@@ -21,7 +21,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ankitkr104&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkr104&theme=tokyo-night)
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkr104&theme=tokyonight)
 

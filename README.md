@@ -84,6 +84,18 @@
 
 ---
 
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkr104/ankitkr104/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkr104/ankitkr104/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ankitkr104/ankitkr104/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 💡 LeetCode Activity
 
 <div align="center">
@@ -97,17 +109,5 @@
 <div align="center">
   <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
   ⭐️ <i>Feel free to explore my repositories and star projects you find interesting!</i>
-</div>
-
----
-
-### 🐍 Contribution Activity Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkr104/ankitkr104/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkr104/ankitkr104/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ankitkr104/ankitkr104/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 

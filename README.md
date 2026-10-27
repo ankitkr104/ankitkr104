@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🎓 Undergraduate at **Indian Institute of Technology (IIT) Patna**
 - ☀️ **Google Summer of Code (GSoC)** Contributor
